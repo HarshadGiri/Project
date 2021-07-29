@@ -153,9 +153,10 @@ header {
 
 .hero-img {
 	margin-top: 2em;
-	width: 20em;
-	height: 20em;
+		
 	border-radius: 8px;
+	
+	
 	object-fit: cover;
 	flex-grow: 1;
 }
